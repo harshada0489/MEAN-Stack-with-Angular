@@ -22,5 +22,5 @@ ng generate component FirstComp
 8. To display on web application
 ng serve --o
 
-![image](https://user-images.githubusercontent.com/72671266/230949667-6934801c-9735-4b17-8e18-9e12ebb5b446.png)
+![image](https://user-images.githubusercontent.com/72671266/230950398-9c67971c-34c5-4a1b-b62f-fc18dd389b6c.png)
 
