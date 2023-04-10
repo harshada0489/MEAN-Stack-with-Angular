@@ -29,6 +29,6 @@ ng generate component SecondComp
 8. To display on web application
 ng serve --o
 
-image.png
+![image](https://user-images.githubusercontent.com/72671266/230949800-ca02177f-3d4a-46f3-bbe5-9976e1ae9068.png)
 
 
