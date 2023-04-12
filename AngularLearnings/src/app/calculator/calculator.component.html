@@ -1,0 +1,13 @@
+<h1>Calculator</h1>
+
+<div>
+    <h3>Enter expression</h3>
+    <input id="expression" name="expression" #expression/>
+</div>
+
+<div>
+    <button (click) = "ExpressionOperation(expression.value)"> Submit</button>
+</div>
+<div>
+    Output is : {{ans}}
+</div>
