@@ -1,0 +1,1 @@
+using propertyname in .ts file, rendering it in .html file using String Interpolation
