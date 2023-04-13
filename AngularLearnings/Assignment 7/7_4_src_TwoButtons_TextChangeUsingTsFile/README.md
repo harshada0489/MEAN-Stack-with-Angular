@@ -14,6 +14,12 @@ run the angular application using below command
 ng serve --o
 
 
+![image](https://user-images.githubusercontent.com/72671266/231654409-fa2dfe7c-623f-463f-9ded-ae872e125973.png)
+
+![image](https://user-images.githubusercontent.com/72671266/231654448-e378b4dd-057b-48b2-b55e-93a59fd1eb75.png)
+
+
+
 
 
 
