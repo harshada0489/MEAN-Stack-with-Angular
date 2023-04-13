@@ -12,3 +12,5 @@ edit the userDefined component html file (user-defined.component.html)
 
 run the angular application using below command
 ng serve --o
+
+![image](https://user-images.githubusercontent.com/72671266/231654052-9d952df7-8086-4b8a-854b-3bf143a5de61.png)
