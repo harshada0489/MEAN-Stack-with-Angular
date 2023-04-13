@@ -14,3 +14,6 @@ edit each component's .css file  (first.component.css, second.component.css)
 
 run the angular application using below command 
 ng serve --o
+
+
+![image](https://user-images.githubusercontent.com/72671266/231653966-8aae44a9-611d-4345-8b3c-ff2ca6d854a6.png)
