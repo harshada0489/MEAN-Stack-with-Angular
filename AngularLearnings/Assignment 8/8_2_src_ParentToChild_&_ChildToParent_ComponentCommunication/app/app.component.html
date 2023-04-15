@@ -1,0 +1,5 @@
+<!-- parent to child message passing   --&-- child to parent message fetching in a variable  -->
+<app-child [MessageFromParent] = "Message" (Myevent) = "MessageFromChild = $event" ></app-child>
+
+<!-- child to parent message fetching variable -->
+<h1>{{MessageFromChild}}</h1>

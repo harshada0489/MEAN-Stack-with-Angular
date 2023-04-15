@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularLearnings';
+
+  public tname : string = "";
+
+  lengthVariable(event : any)
+  {
+    this.tname = (event.target as HTMLInputElement).value;
+  }
 }
