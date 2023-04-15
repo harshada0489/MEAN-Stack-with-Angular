@@ -10,6 +10,12 @@ edit  child component with text box and button text (child.component.html)
 
 edit child component's .ts file  (child.component.ts) 
 
+
+
+![image](https://user-images.githubusercontent.com/72671266/232253753-c7325889-0591-4a7b-adfb-46180b1fd72c.png)
+
+
+
 edit app component's .ts file (app.component.ts) 
 -assign a variable, to fetch the value from child
 
@@ -20,8 +26,11 @@ edit  app component's html file for getting the me (app.component.html)
 -display the fetched value from the child component (using string interpolation)
 
 
+![image](https://user-images.githubusercontent.com/72671266/232253789-2fbefc1d-8500-47fa-a807-0e52f7c3b0fc.png)
+
+
 run the angular application using below command 
 ng serve --o
 
 
-![image](https://user-images.githubusercontent.com/72671266/231653966-8aae44a9-611d-4345-8b3c-ff2ca6d854a6.png)
+![image](https://user-images.githubusercontent.com/72671266/232253704-64c64f7d-2883-43de-a489-2ce03837c98c.png)
