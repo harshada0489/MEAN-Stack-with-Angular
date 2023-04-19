@@ -18,15 +18,29 @@ In app-routing.module.ts
     -give the component name and path : '**'
 -for default routing
     - give the name of component (eg: technology) that needs to be kept as default for the path : ''
+![image](https://user-images.githubusercontent.com/72671266/232976401-edb3b9a0-c536-4f99-93c1-01d0d67929cb.png)
+
 
 In technology.component.html file
 write the technology name that want to be displayed
+![image](https://user-images.githubusercontent.com/72671266/232976484-37331da9-ea97-49ac-85b4-c7d73d6bc9aa.png)
+
 
 In book.component.html file
 write the books name that want to be displayed
+![image](https://user-images.githubusercontent.com/72671266/232976450-3d939043-d808-4d3c-ab6a-073b7fbb1cef.png)
+
+
+In wrongchoice.component.html file
+write as Wrong choice
+![image](https://user-images.githubusercontent.com/72671266/232976357-d30a0328-efda-45e1-b779-7cbb38d907f3.png)
+
+
+
 
 In app.component.html
 - write the <nav> tag and inside the nave tag give the link as mentioned in the app-routing.module.ts file's path variable
+![image](https://user-images.githubusercontent.com/72671266/232976568-c4062e2c-b7b7-4fc2-81e1-e801bd0b75d9.png)
 
 
 run the angular application using below command 
