@@ -17,16 +17,21 @@ Copy number and string Service class name and put it in providers array in app.m
 In number.component.ts file:
  - write  ChkPrime() functions logic
 
+![image](https://user-images.githubusercontent.com/72671266/232961045-c67f0cad-6b0e-4039-9021-42fa66ed35f2.png)
+
+
  In string.component.ts file:
  - write  CountCapital() functions logic
+![image](https://user-images.githubusercontent.com/72671266/232961075-fbdbb7a9-94b1-4706-ae02-774e55e6650a.png)
 
+![image](https://user-images.githubusercontent.com/72671266/232961122-2886c9d4-443c-4bd7-8af8-3328d10a4472.png)
 
 ng generate component child1  	(creating component named as child1)
 ng generate component child2  	(creating component named as child2)
 
 (for rendering the above components)
 copy the selector name from child1.component.ts and child2.component.ts and paste it in app.component.html 
-
+![image](https://user-images.githubusercontent.com/72671266/232961438-2196190e-c095-4be0-8d83-2f4e51e2be3d.png)
 
 now in order to use Dependency Injection in child1 class 
 In child1.component.ts file 
@@ -35,6 +40,8 @@ In child1.component.ts file
 3.  - create 1 empty variables for getting the value from the chkPrime() methods written in number.service.ts file
     - call the service method chkPrime() by passing hardcoded value using the object variable of the service class(assigned in its constructor)
     - store the values in the empth variable created
+![image](https://user-images.githubusercontent.com/72671266/232961152-8adf6b5e-8819-4826-8462-8cd110046d1a.png)
+
 
 now in order to use Dependency Injection in child2 class 
 In child2.component.ts file 
@@ -43,6 +50,9 @@ In child2.component.ts file
 3.  - create 1 empty variables for getting the value from the CountCapital() methods written in string.service.ts file
     - call the service method CountCapital() by passing hardcoded value using the object variable of the service class(assigned in its constructor)
     - store the values in the empth variable created
+![image](https://user-images.githubusercontent.com/72671266/232961390-e7924855-4aa4-401c-8f59-10192d595268.png)
+
+
 
 
 In child1.component.html file
@@ -50,10 +60,15 @@ Using string interpolation:  {{}}
 for displaying the values on browser:
  - get the values from the variable storing the result value in child1.component.ts file
 
+![image](https://user-images.githubusercontent.com/72671266/232961460-ac079004-f08d-45cf-8df9-b19f3d0fbdc1.png)
+
+
 In child2.component.html file
 Using string interpolation:  {{}}
 for displaying the values on browser:
  - get the values from the variable storing the result value in child2.component.ts file
+
+![image](https://user-images.githubusercontent.com/72671266/232961477-e046b4de-fd16-4025-8b7c-4ad9ada98137.png)
 
 
 run the angular application using below command 
