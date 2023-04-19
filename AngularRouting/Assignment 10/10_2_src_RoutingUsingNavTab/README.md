@@ -15,16 +15,23 @@ ng generate component book  	    (creating component named as book)
 
 In app-routing.module.ts
 under Routes array add the path and component name which you want the links
+![image](https://user-images.githubusercontent.com/72671266/232975901-21616260-55ff-43f2-b5c3-a78f12a88aa5.png)
+
 
 In technology.component.html file
 write the technology name that want to be displayed
+![image](https://user-images.githubusercontent.com/72671266/232976056-21cc6868-4712-4115-94a9-56ba2dfef85d.png)
+
 
 In book.component.html file
 write the books name that want to be displayed
+![image](https://user-images.githubusercontent.com/72671266/232976022-a6fb14f1-0ed7-4671-b636-8ebb2dd7363f.png)
+
 
 In app.component.html
 - write the <nav> tag and inside the nave tag give the link as mentioned in the app-routing.module.ts file's path variable
-
+![image](https://user-images.githubusercontent.com/72671266/232975814-e508e976-2213-42d7-9a25-0b9fdb46f759.png)
+  
 run the angular application using below command 
 ng serve --o
 
