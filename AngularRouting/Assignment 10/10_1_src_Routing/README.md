@@ -26,3 +26,6 @@ write the books name that want to be displayed
 run the angular application using below command 
 ng serve --o
 
+![image](https://user-images.githubusercontent.com/72671266/232974498-8146e450-6fc7-4225-b546-9f63e9a65f65.png)
+![image](https://user-images.githubusercontent.com/72671266/232974525-a21b946b-18ff-4996-80ae-499446135c97.png)
+![image](https://user-images.githubusercontent.com/72671266/232974563-ef1b6201-caa8-44c6-a446-bfca369877c1.png)
