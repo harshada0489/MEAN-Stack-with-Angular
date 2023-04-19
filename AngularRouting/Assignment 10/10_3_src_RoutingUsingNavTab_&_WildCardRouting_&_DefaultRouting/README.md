@@ -31,3 +31,9 @@ In app.component.html
 
 run the angular application using below command 
 ng serve --o
+
+  
+  ![image](https://user-images.githubusercontent.com/72671266/232974827-00c91c98-c79b-4345-bcb3-79a5a123f705.png)
+  ![image](https://user-images.githubusercontent.com/72671266/232974862-db3f63b3-40c2-4302-961f-d94a820110e1.png)
+
+  
