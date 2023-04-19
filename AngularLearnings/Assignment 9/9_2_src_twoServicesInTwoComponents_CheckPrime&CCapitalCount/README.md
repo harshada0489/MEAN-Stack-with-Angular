@@ -73,3 +73,7 @@ for displaying the values on browser:
 
 run the angular application using below command 
 ng serve --o
+
+
+![image](https://user-images.githubusercontent.com/72671266/232961842-6bb2a931-b90d-482d-a29e-b21c57478a2a.png)
+
