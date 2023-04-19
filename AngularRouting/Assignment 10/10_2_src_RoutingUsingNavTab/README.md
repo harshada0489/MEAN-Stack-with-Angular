@@ -27,3 +27,9 @@ In app.component.html
 
 run the angular application using below command 
 ng serve --o
+
+  
+  ![image](https://user-images.githubusercontent.com/72671266/232974632-e0ae5e5a-c8dc-46fd-b96b-96dd044c80cf.png)
+![image](https://user-images.githubusercontent.com/72671266/232974661-e6c8b2b7-b82c-4d8a-b964-05b46ec57d14.png)
+  ![image](https://user-images.githubusercontent.com/72671266/232974707-27096075-abf7-400f-b1e1-dfeb53812483.png)
+
