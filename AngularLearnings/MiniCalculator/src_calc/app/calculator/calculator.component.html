@@ -1,0 +1,24 @@
+<h1>Calculator</h1>
+
+<div>
+    <h3>Enter expression</h3>
+    <br>
+    <div> Enter 1st number  : <input id="expression1" name="expression1" #expression1/></div>
+    <br>
+    <div> Enter operator    : <input id="operator" name="operator" #operator/> </div>
+    <br>
+    <div> Enter 2nd number  : <input id="expression2" name="expression2" #expression2/> </div>
+    <br>
+</div>
+
+<div>
+    <button (click) = "ExpressionOperation(expression1.value, operator.value, expression2.value)"> 
+        Submit
+    </button>
+</div>
+
+<br>
+
+<div>
+    Output is : {{ans}}
+</div>
