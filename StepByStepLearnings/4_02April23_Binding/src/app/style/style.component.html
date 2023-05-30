@@ -1,0 +1,20 @@
+<h1>Demonstration of style binding</h1>
+
+<h1>Hello World</h1>
+<h1 [style.color] = "'red'">Hello World</h1>
+<h1 [style.color] = "'green'">Hello World</h1>
+<h1 [style.color] = "Mycolor">Hello World</h1>
+<h1 [style.color] = "Isset ? 'green' : 'red'">Hello World</h1>
+
+<h1>Demonstration of class binding</h1>
+<h1 class="success">Demonstration of class binding</h1>
+<h1 class="failure">Demonstration of class binding</h1>
+
+<h1 [class]="myClass">Demonstration of class binding</h1>
+<h1 [class.success]="Isset">Demonstration of class binding</h1>
+
+<h1>Demonstration of event binding</h1>
+<button (click) = "onSubmit()">submit</button>
+<h1>{{Name}}</h1>
+
+<button (click) = "myActionNew($event)">Event Button</button>
